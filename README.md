@@ -19,3 +19,14 @@ This GitHub repository, named "GeniusBooks-Management-App-Cpp," contains an erro
 4. View Company Details: Users can access information about Genius Books as a company, including its history, location, and contact details.
 
 The application utilizes appropriate data structures, such as arrays, linked lists, or hash tables, to store and manage book details, sales records, and user login information. Additionally, text files are used to persist the data, allowing for easy storage and retrieval.
+
+## About folders:
+
+### 1. Source codes:
+This folder contains the all the C# source codes which are used to implement the system.
+
+### 2. Database
+This folder contains the MySql database scripts which are used to desig the dayabase for this system.
+
+### 3. Dashboard images
+This folder contains the images of the designed user interface using the C#.
